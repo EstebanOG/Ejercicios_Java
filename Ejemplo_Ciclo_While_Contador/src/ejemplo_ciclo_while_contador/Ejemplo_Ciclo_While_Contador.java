@@ -19,7 +19,7 @@ public class Ejemplo_Ciclo_While_Contador {
         int maximo;
         maximo = 10;
         
-        while(cont < maximo){
+          while(cont < maximo){
             System.out.println("Contador: "+cont);
             cont = cont + 1;
         }
